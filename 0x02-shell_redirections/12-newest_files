@@ -1,2 +1,8 @@
+<<<<<<< HEAD
+#!/bin/bash       
+ls -t1 | head    
+
+=======
 #!/binbash                                                                                                                                    
 ls -t1 | head   
+>>>>>>> 1dea49f8126acc7387fea7a2da03000b2b535a12
